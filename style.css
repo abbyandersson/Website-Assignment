@@ -1,0 +1,77 @@
+body{
+    background-color: rgb(143, 124, 82)
+}
+.wrapper{
+    margin: 0 auto;
+    width: 1000px;
+}
+#myHeader{
+    background-color: rgba(214, 85, 214, 0.452);
+    color: black;
+    padding: 30px;
+    text-align: center;
+}
+#textbox {
+border-radius: 10px;
+border-style: double;
+border-color:black;
+width:40%;
+padding: 30px;
+font-size: 30px;
+font-style: oblique;
+}
+.italic{
+    font-style: italic
+}
+ul{
+    list-style-type: lower-greek;
+    font-size: 20px;
+}
+nav{
+background-color: rgba(245, 237, 237, 0.452);
+width: 25%;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+border: double;
+padding:0 30px;
+}
+.upper{
+    text-transform: uppercase;
+}
+h1{
+    position: relative;
+    top: 10px
+}
+p{
+    text-align: inherit;
+    font-size: 20px;
+}
+.img-minerals{
+    width: 600px;    
+}
+#specialtext { 
+    color: white;
+}
+footer{
+    background-color: black;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+.img-gems{
+    width: 400px;
+    padding: 30px;
+}
+.paragraph{
+    color: white;
+    font-size: 20px;
+    background-color: rgba(11, 7, 252, 0.993);
+    border-width: 20px;
+    padding: 30px;
+}
+a:hover, a:active{
+    background-color: rgba(11, 7, 252, 0.993);
+}
+ a:link {
+        color: black;
+        background-color: transparent;
+        text-decoration-style: dashed;
+}
